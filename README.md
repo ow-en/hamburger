@@ -9,7 +9,7 @@ User may enter any burger name to add it to the burger menu.  This action also a
 
 To run the application locally, first clone this repository with the following command.
 
-	git clone git@github.com:angrbrd/eat-da-burger.git
+	git clone git@github.com:owensource/hamburger.git
 	
 Next, install the application dependencies.
 
